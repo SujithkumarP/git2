@@ -3,3 +3,4 @@ branch1
 rebasse 1
 rebasse 2
 from brach1;
+2-from brach1;
